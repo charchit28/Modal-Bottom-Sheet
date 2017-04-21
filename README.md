@@ -17,7 +17,7 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
         app:layout_behavior="@string/bottom_sheet_behavior"
         
 ## Screenshots
-<img src="screens/screen-view.png" width="350"> <img src="screens/screen-dialog.png" width="350">
+<img src="screens/basic-view.png" width="350"> <img src="screens/screens-view.png" width="350"> <img src="screens/dia.png" width="350"> <img src="screens/dialog-view.png" width="350">
 
 ## Dependencies
 
