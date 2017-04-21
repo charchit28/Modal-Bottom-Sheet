@@ -21,11 +21,7 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
 
 ## Dependencies
 
-    compile 'com.android.support:appcompat-v7:24.1.1'
-    compile 'com.android.support:design:24.1.1'
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile 'com.android.support:design:25.1.1'
 
 
-
-
-
-contact to hire : kasliwalcharchit@gmail.com
