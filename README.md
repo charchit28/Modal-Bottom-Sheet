@@ -23,3 +23,9 @@ For a simpler integration, consider using this: https://github.com/rubensousa/Bo
 
     compile 'com.android.support:appcompat-v7:24.1.1'
     compile 'com.android.support:design:24.1.1'
+
+
+
+
+
+contact to hire : kasliwalcharchit@gmail.com
